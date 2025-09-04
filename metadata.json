@@ -1,0 +1,5 @@
+{
+  "name": "Video Last Frame Extractor",
+  "description": "An application to upload a video and extract its final frame as a high-quality JPEG image, preserving the original dimensions.",
+  "requestFramePermissions": []
+}
